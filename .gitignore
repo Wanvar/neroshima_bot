@@ -1,0 +1,10 @@
+# Środowisko wirtualne
+venv/
+.venv/
+
+# PyCharm
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
